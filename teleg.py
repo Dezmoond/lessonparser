@@ -5,7 +5,7 @@ import json
 import subprocess
 
 # 🔑 Вставь токен от BotFather
-TOKEN = '7621505548:AAEMf_L_cfZRQaP60FYR98CCnK_aHLXU6kg'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 # 📁 Загрузи афишу один раз при запуске
